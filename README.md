@@ -1,7 +1,8 @@
 
 <p align="center"><i>A membrane decides what gets through. So does a good lab.</i></p>
 
-<img align="center"><img width="450" height="190" alt="header (3)" src="https://github.com/user-attachments/assets/397258b7-0a1f-44d2-8117-3d213ee01b77" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-label="Animated illustration of a channel protein with alpha-helices in a lipid membrane; water molecules pass single file through its pore while ions stay outside">
+<p align="center">
+<img width="450" height="190" alt="header (3)" src="https://github.com/user-attachments/assets/397258b7-0a1f-44d2-8117-3d213ee01b77" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-label="Animated illustration of a channel protein with alpha-helices in a lipid membrane; water molecules pass single file through its pore while ions stay outside">
 <defs>
 <radialGradient id="bg" cx="0.5" cy="0.5" r="0.75"><stop offset="0" stop-color="#0d1f4a"/><stop offset="0.6" stop-color="#070f27"/><stop offset="1" stop-color="#030712"/></radialGradient>
 <pattern id="hex" width="42" height="48.5" patternUnits="userSpaceOnUse" patternTransform="scale(0.9)"><path d="M21 0 L42 12.1 L42 36.4 L21 48.5 L0 36.4 L0 12.1 Z" fill="none" stroke="#2f6fd0" stroke-opacity="0.16" stroke-width="1"/></pattern>
