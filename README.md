@@ -400,6 +400,15 @@
 <circle cx="444.7" cy="343" r="2.6" fill="#fff" opacity="0.85"/>
 </svg>
 
+
+<h1 align="center">Amirhossein Gholami</h1> <p align="center"><i>A membrane decides what gets through. So does a good lab.</i></p> <p align="center"> <img src="header.svg" alt="A channel protein in a lipid membrane, with water molecules passing through the pore" width="100%"> </p>
+
+
+
+
+
+
+
 I'm an MSc Biophysics student in Linz. I study how channels and membranes handle water and ions, and I design proteins on the computer to see what they might do.
 
 ## What gets through the filter
