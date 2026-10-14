@@ -31,16 +31,3 @@ Channels have states. Mine right now:
 - **Closed** to: anything that needs a conclusion before the data
 
 If you want to talk, open an issue on one of my repos or find me on LinkedIn.
-
-
-
-
-
-## Gating
-
-Channels have states. Mine right now:
-
-- **Open** to: protein design, membrane proteins, ideas that connect simulation with experiments
-- **Closed** to: anything that needs a conclusion before the data
-
-If you want to talk, open an issue on one of my repos or find me on LinkedIn.
