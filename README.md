@@ -34,15 +34,11 @@
 <g fill="none" stroke="#7df9ff" stroke-opacity=".45" stroke-width="2"><path d="M16 38V16H38M884 38V16H862M16 342V364H38M884 342V364H862"/></g>
 </svg>
 
-
-
-
-
 I'm an MSc Biophysics student in Linz. I study how channels and membranes handle water and ions, and I design proteins on the computer to see what they might do.
 
 ## What gets through the filter
 
-| âœ… Let in | ðŸš« Kept out |
+| ✅ Let in | 🚫 Kept out |
 |---|---|
 | Controls that could prove me wrong | Results I can't reproduce |
 | Small tests before big claims | Beautiful structures nobody checked |
@@ -51,10 +47,23 @@ I'm an MSc Biophysics student in Linz. I study how channels and membranes handle
 
 ## Currently in the pore
 
-- ðŸ’§ Measuring water flux and ionic current in the same membrane, at the same time
-- ðŸ§¬ A de novo protein binder, still in the design loop
-- ðŸ Small Python checks for protein backbones â†’ [rfdiffusion-backbone-qc](https://github.com/Amirhgholami/rfdiffusion-backbone-qc)
-- ðŸ“‰ Learning machine learning, slowly and on purpose
+- 💧 Measuring water flux and ionic current in the same membrane, at the same time
+- 🧬 A de novo protein binder, still in the design loop
+- 🐍 Small Python checks for protein backbones → [rfdiffusion-backbone-qc](https://github.com/Amirhgholami/rfdiffusion-backbone-qc)
+- 📉 Learning machine learning, slowly and on purpose
+
+## Gating
+
+Channels have states. Mine right now:
+
+- **Open** to: protein design, membrane proteins, ideas that connect simulation with experiments
+- **Closed** to: anything that needs a conclusion before the data
+
+If you want to talk, open an issue on one of my repos or find me on LinkedIn.
+
+
+
+
 
 ## Gating
 
