@@ -401,7 +401,7 @@
 </svg>
 
 
-<h1 align="center">Amirhossein Gholami</h1> <p align="center"><i>A membrane decides what gets through. So does a good lab.</i></p> <p align="center"> <img src="header.svg" alt="A channel protein in a lipid membrane, with water molecules passing through the pore" width="100%"> </p>
+<p align="center"><i>A membrane decides what gets through. So does a good lab.</i></p> <p align="center"> 
 
 
 
