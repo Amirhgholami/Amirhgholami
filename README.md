@@ -1,8 +1,8 @@
 
 <p align="center"><i>A membrane decides what gets through. So does a good lab.</i></p>
 
-
-<img width="900" height="380" alt="header (2)" src="https://github.com/user-attachments/assets/0092d136-82cd-49d4-b711-a0429b4f4020" />
+<p align="center">
+<img width="450" height="190" alt="header (2)" src="https://github.com/user-attachments/assets/0092d136-82cd-49d4-b711-a0429b4f4020" />
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-label="Animated illustration of a channel protein with alpha-helices in a lipid membrane; water molecules pass single file through its pore while ions stay outside">
 <defs>
 <radialGradient id="bg" cx="0.5" cy="0.5" r="0.75"><stop offset="0" stop-color="#0d1f4a"/><stop offset="0.6" stop-color="#070f27"/><stop offset="1" stop-color="#030712"/></radialGradient>
@@ -2306,9 +2306,6 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/401d0c0f-1939-43ac-adb9-0db4b7f6d3f2" width="450" alt="A channel protein in a lipid membrane, with water molecules passing through the pore" />
-</p>
 
 I'm an MSc Biophysics student in Linz. I study how channels and membranes handle water and ions, and I design proteins on the computer to see what they might do.
 
