@@ -1,4 +1,3 @@
-<h1 align="center">Amirhossein Gholami</h1>
 
 <p align="center"><i>A membrane decides what gets through. So does a good lab.</i></p>
 
